@@ -1,4 +1,5 @@
-[![MasterHead]
+[![MasterHead]<img align="right" alt="Coding" width="800" src=""C:\Users\dell\Downloads\Black 3d Cloud Computing Technology Concept   - Made with PosterMyWall.jpg"">
+
 <h1 align="center">Hi 👋, I'M Reguri Charan Reddy</h1>
 <h3 align="center">I am passionate in Devops and AWS India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVsN2wxaGo1eWE0M3BmaGhwYXNpcmZ4amoxYXRhMnh4dmVkNjd5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1y0zSu5hYE1pJSdqmI/giphy.webp">
